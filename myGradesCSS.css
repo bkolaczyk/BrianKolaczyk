@@ -1,0 +1,80 @@
+@charset "utf-8";
+			table {
+				font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+				background-color: LightBlue;
+				color: Black;
+				border-style: double;
+				border-width: 8px;
+				border-radius: 10px;
+				width: 800px;
+			}
+			body#bg {
+				background: url("binaryHeading65.jpg") no-repeat 50% 50% fixed;
+				background-size: cover;
+				-moz-background-size: cover;
+  				-o-background-size: cover;
+ 				-webkit-background-size: cover;
+			}
+			div#resume {
+				background-color: #FAEFB6;
+				width: 600px;
+				position: absolute;
+				top: 150px;
+				left: 900px;
+				padding: 20px;
+				border: double;
+				border-width: 8px;
+				border-radius: 10px;
+			}
+			p.GPAone  {
+				font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+				color: White;
+				font-size: 200%;
+			}
+			p.GPAtwo  {
+				color: Black;
+				font-size: 200%;
+			}
+			tr.even {
+				background-color: SkyBlue;
+			}
+			.heading {
+				font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+				color: White;
+				text-shadow: 4px 4px 9px #111111;
+			}
+			p.basicText {
+				font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+				color: Black;
+				background-color: #FAEFB6;
+				border: double;
+				border-width: 8px;
+				border-radius: 10px;
+				width: 760px;
+				padding: 10px;
+				margin: 40px;
+			}
+			figure.gradpic {
+				width: 790px;
+				background-color: Purple;
+				color: Black;
+				background-image: url("IUseal.jpg");
+				background-repeat: repeat;	
+			}
+			img.grad  {
+				display: block;
+				margin: 0px auto;
+				align-content: center;
+			}
+			div.links{
+				background-color: #FAEFB6;
+				color: Blue;
+				width: 760px;
+				margin: 28px;
+				padding: 20px;
+				border-style: double;
+				border-width: 8px;
+				border-radius: 10px;
+				border-color: Black;
+			}
+		
